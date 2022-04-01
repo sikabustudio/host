@@ -75,9 +75,9 @@
     "ads": {
       "admob": {
         "app_id": "ca-app-pub-1434451780549044~8876118283",
-        "banner_id": "ca-app-pub-1434451780549044/1411277680",
-        "interstitial_id": "ca-app-pub-1434451780549044/5171393446",
-        "native_id": "ca-app-pub-1434451780549044/2532787661"
+        "banner_id": "ca-app-pub-1434451780549044/1731955273",
+        "interstitial_id": "ca-app-pub-1434451780549044/4952180835",
+        "native_id": "ca-app-pub-1434451780549044/6409566888"
       },
       "startapp": {
         "app_id": "207106536"
@@ -92,7 +92,7 @@
           "unity",
           "startapp"
         ],
-        "main_channel": "startapp",
+        "main_channel": "admob",
         "enabled_ad": true
       }
     }
