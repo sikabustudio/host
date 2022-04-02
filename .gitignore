@@ -2,3 +2,4 @@ apikey.txt
 ignore.txt
 token.txt
 *.rb
+/tools
