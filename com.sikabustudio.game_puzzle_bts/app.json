@@ -43,7 +43,7 @@
           "app_id": "206098712"
         },
         "unity": {
-          "app_id": "4267147"
+          "app_id": "4691193"
         },
         "config": {
           "interstitial_interval": 5,
@@ -52,7 +52,7 @@
             "unity",
             "startapp"
           ],
-          "main_channel": "startapp",
+          "main_channel": "unity",
           "enabled_ad": true
         }
       }
