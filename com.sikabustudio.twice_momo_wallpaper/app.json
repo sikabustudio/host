@@ -49,7 +49,7 @@
           "unity",
           "startapp"
         ],
-        "main_channel": "startapp",
+        "main_channel": "unity",
         "enabled_ad": true
       }
     }
