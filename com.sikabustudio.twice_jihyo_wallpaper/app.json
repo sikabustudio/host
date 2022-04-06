@@ -17,7 +17,7 @@
       "name_version": "1.0.7",
       "build_version": 16,
       "source": "blogger",
-      "force_update": false,
+      "force_update": true,
       "show_similar_app": false,
       "data_source": [
         {
