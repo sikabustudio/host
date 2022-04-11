@@ -8,6 +8,7 @@
     },
     "default.xml": {
       "app_name": "BTS Jigsaw Puzzle",
+      "menu_subtitle": "BTS",
       "privacy_policy_url": "https://sikabustudio.github.io/game/jigsaw/bts/privacy_and_policy.html",
       "share_app": "Hi A.R.M.Y, play and enjoy jigsaw puzzle with your lovely Bias https://play.google.com/store/apps/details?id=%s",
       "store_id": "Sikabu+Studio"
