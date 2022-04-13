@@ -1,5 +1,5 @@
 apikey.txt
-ignore.txt
+*.ignore.txt
 token.txt
 *.rb
 /tools
