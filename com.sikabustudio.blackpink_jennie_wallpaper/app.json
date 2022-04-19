@@ -17,7 +17,7 @@
         "name_version": "1.0.11",
         "build_version": 20,
         "source": "blogger",
-        "force_update": false,
+        "force_update": true,
         "show_similar_app": false,
         "data_source": [
           {
@@ -68,7 +68,7 @@
             "unity",
             "startapp"
           ],
-          "main_channel": "admob",
+          "main_channel": "unity",
           "enabled_ad": true
         }
       }
