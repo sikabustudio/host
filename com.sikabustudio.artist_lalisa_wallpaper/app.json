@@ -7,9 +7,9 @@
       "blogger_post_id_config": "3814985322627442259"
     },
     "default.xml": {
-      "app_name": "Lisa Wallpaper",
-      "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/blackpink/lisa/privacy_and_policy.html",
-      "share_app": "Hi BLINK and Lisa Lover, change your screen with Lisa wallpaper. https://play.google.com/store/apps/details?id=%s",
+      "app_name": "Lalisa Manoban Wallpaper",
+      "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/artist/lalisa/privacy_and_policy.html",
+      "share_app": "Hi are u Lalisa fans too? change your screen with Lalisa Manoban wallpaper. https://play.google.com/store/apps/details?id=%s",
       "store_id": "Sikabu+Studio"
     },
     "configuration.json": {
@@ -22,31 +22,12 @@
         "data_source": [
           {
             "position": 0,
-            "name":"Lisa",
+            "name":"Lalisa",
             "source":"5226085025606699733",
             "thumbnail":null
           }
         ],
-        "similar_apps": [
-          {
-            "title": "Blackpink Member Wallpaper K-POP HD",
-            "package_name": "com.sikabustudio.blackpink_member_wallpaper",
-            "type": "wallpaper",
-            "short_description": "Get collections of BTS member and set it as your wallpaper."
-          },
-          {
-            "title": "Jennie Wallpaper K-POP HD",
-            "package_name": "com.sikabustudio.blackpink_jennie_wallpaper",
-            "type": "wallpaper",
-            "short_description": "Get collections of Jennie Blackpink member and set it as your wallpaper."
-          },
-          {
-            "title": "Rose Wallpaper K-POP HD",
-            "package_name": "com.sikabustudio.blackpink_rose_wallpaper",
-            "type": "wallpaper",
-            "short_description": "Get collections of Rose Blackpink member and set it as your wallpaper."
-          }
-        ]
+        "similar_apps": []
       },
       "ads": {
         "admob": {
