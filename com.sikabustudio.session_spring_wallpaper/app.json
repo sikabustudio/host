@@ -44,7 +44,6 @@
       },
       "config": {
         "interstitial_interval": 5,
-       "keywords": [],
        "channels": [
           "admob",
           "unity",
