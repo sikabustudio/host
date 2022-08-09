@@ -14,17 +14,17 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.0.13",
-      "build_version": 22,
+      "name_version": "1.1.0",
+      "build_version": 23,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
       "data_source": [
         {
           "position": 0,
-          "name":"Jungkook",
-          "source":"3861790331771585053",
-          "thumbnail":null
+          "name": "Jungkook",
+          "source": "3861790331771585053",
+          "thumbnail": null
         }
       ],
       "similar_apps": [
@@ -74,10 +74,11 @@
     },
     "ads": {
       "admob": {
-        "app_id": "ca-app-pub-1434451780549044~6826135053",
-        "banner_id": "ca-app-pub-1434451780549044/8899447519",
-        "interstitial_id": "ca-app-pub-1434451780549044/2706979225",
-        "native_id": "ca-app-pub-1434451780549044/9080815888"
+        "app_id": "ca-app-pub-7743179307949055~9107215475",
+        "banner_id": "ca-app-pub-7743179307949055/3471745416",
+        "interstitial_id": "ca-app-pub-7743179307949055/9104713022",
+        "native_id": "ca-app-pub-7743179307949055/6408899947",
+        "app_open_id": ""
       },
       "startapp": {
         "app_id": "207039344"
@@ -87,13 +88,15 @@
       },
       "config": {
         "interstitial_interval": 5,
-       "keywords": [],
-       "channels": [
+        "keywords": [
+
+        ],
+        "channels": [
           "admob",
           "unity",
           "startapp"
         ],
-        "main_channel": "unity",
+        "main_channel": "admob",
         "enabled_ad": true
       }
     }

@@ -14,17 +14,17 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.0.13",
-      "build_version": 22,
+      "name_version": "1.1.0",
+      "build_version": 23,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
       "data_source": [
         {
           "position": 0,
-          "name":"Jin",
-          "source":"8960684231317599623",
-          "thumbnail":null
+          "name": "Jin",
+          "source": "8960684231317599623",
+          "thumbnail": null
         }
       ],
       "similar_apps": [
@@ -74,10 +74,11 @@
     },
     "ads": {
       "admob": {
-        "app_id": "ca-app-pub-1434451780549044~3552295950",
-        "banner_id": "ca-app-pub-1434451780549044/2502508246",
-        "interstitial_id": "ca-app-pub-1434451780549044/2255096236",
-        "native_id": "ca-app-pub-1434451780549044/7315851221"
+        "app_id": "ca-app-pub-7743179307949055~5946893189",
+        "banner_id": "ca-app-pub-7743179307949055/2007648172",
+        "interstitial_id": "ca-app-pub-7743179307949055/7068403166",
+        "native_id": "ca-app-pub-7743179307949055/6082624554",
+        "app_open_id": ""
       },
       "startapp": {
         "app_id": "207201826"
@@ -87,13 +88,15 @@
       },
       "config": {
         "interstitial_interval": 5,
-       "keywords": [],
-       "channels": [
+        "keywords": [
+
+        ],
+        "channels": [
           "admob",
           "unity",
           "startapp"
         ],
-        "main_channel": "unity",
+        "main_channel": "admob",
         "enabled_ad": true
       }
     }

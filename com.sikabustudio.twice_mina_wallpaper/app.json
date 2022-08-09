@@ -14,8 +14,8 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.0.13",
-      "build_version": 22,
+      "name_version": "1.1.0",
+      "build_version": 23,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
@@ -27,14 +27,17 @@
           "thumbnail": null
         }
       ],
-      "similar_apps": []
+      "similar_apps": [
+
+      ]
     },
     "ads": {
       "admob": {
         "app_id": "ca-app-pub-1434451780549044~1994274180",
         "banner_id": "ca-app-pub-1434451780549044/6978464980",
         "interstitial_id": "ca-app-pub-1434451780549044/9779409211",
-        "native_id": "ca-app-pub-1434451780549044/5356098412"
+        "native_id": "ca-app-pub-1434451780549044/5356098412",
+        "app_open_id": ""
       },
       "startapp": {
         "app_id": "203830279"
@@ -44,8 +47,10 @@
       },
       "config": {
         "interstitial_interval": 5,
-       "keywords": [],
-       "channels": [
+        "keywords": [
+
+        ],
+        "channels": [
           "admob",
           "unity",
           "startapp"

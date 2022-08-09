@@ -15,7 +15,7 @@
     "configuration.json": {
       "app": {
         "name_version": "1.0.13",
-        "build_version": 22,
+        "build_version": 23,
         "source": "blogger",
         "force_update": false,
         "show_similar_app": false,
@@ -34,7 +34,8 @@
           "app_id": "ca-app-pub-1434451780549044~8074485503",
           "banner_id": "ca-app-pub-1434451780549044/9310511059",
           "interstitial_id": "ca-app-pub-1434451780549044/9118939360",
-          "native_id": "ca-app-pub-1434451780549044/2553531014"
+          "native_id": "ca-app-pub-1434451780549044/2553531014",
+          "app_open_id": ""
         },
         "startapp": {
           "app_id": "211331415"

@@ -14,17 +14,17 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.0.13",
-      "build_version": 22,
+      "name_version": "1.1.0",
+      "build_version": 23,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
       "data_source": [
         {
           "position": 0,
-          "name":"Jhope",
-          "source":"8911824865672033580",
-          "thumbnail":null
+          "name": "Jhope",
+          "source": "8911824865672033580",
+          "thumbnail": null
         }
       ],
       "similar_apps": [
@@ -77,7 +77,8 @@
         "app_id": "ca-app-pub-1434451780549044~3978548233",
         "banner_id": "ca-app-pub-1434451780549044/4844090381",
         "interstitial_id": "ca-app-pub-1434451780549044/1998435195",
-        "native_id": "ca-app-pub-1434451780549044/2858777648"
+        "native_id": "ca-app-pub-1434451780549044/2858777648",
+        "app_open_id": ""
       },
       "startapp": {
         "app_id": "207589790"
@@ -87,8 +88,10 @@
       },
       "config": {
         "interstitial_interval": 5,
-       "keywords": [],
-       "channels": [
+        "keywords": [
+
+        ],
+        "channels": [
           "admob",
           "unity",
           "startapp"

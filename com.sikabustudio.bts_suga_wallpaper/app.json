@@ -14,17 +14,17 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.0.13",
-      "build_version": 22,
+      "name_version": "1.1.0",
+      "build_version": 23,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
       "data_source": [
         {
           "position": 0,
-          "name":"Suga",
-          "source":"5770594923424856916",
-          "thumbnail":null
+          "name": "Suga",
+          "source": "5770594923424856916",
+          "thumbnail": null
         }
       ],
       "similar_apps": [
@@ -50,7 +50,7 @@
           "title": "Jimin Wallpaper K-POP HD",
           "package_name": "com.sikabustudio.bts_jimin_wallpaper",
           "type": "wallpaper",
-          "short_description": "Get collections of Jimin BTS member and set it as your wallpaper."  
+          "short_description": "Get collections of Jimin BTS member and set it as your wallpaper."
         },
         {
           "title": "Jin BTS Wallpaper KPOP Full HD",
@@ -74,10 +74,11 @@
     },
     "ads": {
       "admob": {
-        "app_id": "ca-app-pub-1434451780549044~8204413871",
-        "banner_id": "ca-app-pub-1434451780549044/4090922087",
-        "interstitial_id": "ca-app-pub-1434451780549044/2777840415",
-        "native_id": "ca-app-pub-1434451780549044/1464758745"
+        "app_id": "ca-app-pub-7743179307949055~7759857679",
+        "banner_id": "ca-app-pub-7743179307949055/9418206661",
+        "interstitial_id": "ca-app-pub-7743179307949055/9619734253",
+        "native_id": "ca-app-pub-7743179307949055/3437469282",
+        "app_open_id": ""
       },
       "startapp": {
         "app_id": "207442149"
@@ -87,13 +88,15 @@
       },
       "config": {
         "interstitial_interval": 5,
-       "keywords": [],
-       "channels": [
+        "keywords": [
+
+        ],
+        "channels": [
           "admob",
           "unity",
           "startapp"
         ],
-        "main_channel": "unity",
+        "main_channel": "admob",
         "enabled_ad": true
       }
     }

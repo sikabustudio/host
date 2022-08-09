@@ -1,100 +1,105 @@
 {
-   "project-wallpaper.properties": {
-      "blogger": true,
-      "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
-      "blogger_id_config": "2631553520729747033",
-      "blogger_post_id_config": "5668697644954889535",
-      "blogger_id_data": "2539729332232068203"
-   },
-   "default.xml": {
-      "app_name": "Wallpaper BTS",
-      "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/bts/member/privacy_and_policy.html",
-      "share_app": "Hi A.R.M.Y and BTS Lover, change your screen with BTS wallpaper. https://play.google.com/store/apps/details?id=%s",
-      "store_id": "Sikabu+Studio"
-   },
-   "configuration.json": {
-      "app": {
-         "name_version": "1.0.13",
-         "build_version": 22,
-         "source": "blogger",
-         "force_update": false,
-         "show_similar_app": false,
-         "data_source": [
-            {
-               "position": 0,
-               "name": "BTS",
-               "source": "1961136469421895467",
-               "thumbnail": null
-            },
-            {
-               "position": 1,
-               "name": "Taehyung",
-               "source": "7808451668041529819",
-               "thumbnail": null
-            },
-            {
-               "position": 2,
-               "name": "Jimin",
-               "source": "7208461102545019485",
-               "thumbnail": null
-            },
-            {
-               "position": 3,
-               "name": "Jin",
-               "source": "8960684231317599623",
-               "thumbnail": null
-            },
-            {
-               "position": 4,
-               "name": "RM",
-               "source": "3411905131733113703",
-               "thumbnail": null
-            },
-            {
-               "position": 5,
-               "name": "Suga",
-               "source": "5770594923424856916",
-               "thumbnail": null
-            },
-            {
-               "position": 6,
-               "name": "Jhope",
-               "source": "8911824865672033580",
-               "thumbnail": null
-            },
-            {
-               "position": 7,
-               "name": "Jungkook",
-               "source": "3861790331771585053",
-               "thumbnail": null
-            }
-         ],
-         "similar_apps": []
+  "project-wallpaper.properties": {
+    "blogger": true,
+    "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
+    "blogger_id_config": "2631553520729747033",
+    "blogger_post_id_config": "5668697644954889535",
+    "blogger_id_data": "2539729332232068203"
+  },
+  "default.xml": {
+    "app_name": "Wallpaper BTS",
+    "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/bts/member/privacy_and_policy.html",
+    "share_app": "Hi A.R.M.Y and BTS Lover, change your screen with BTS wallpaper. https://play.google.com/store/apps/details?id=%s",
+    "store_id": "Sikabu+Studio"
+  },
+  "configuration.json": {
+    "app": {
+      "name_version": "1.1.0",
+      "build_version": 23,
+      "source": "blogger",
+      "force_update": false,
+      "show_similar_app": false,
+      "data_source": [
+        {
+          "position": 0,
+          "name": "BTS",
+          "source": "1961136469421895467",
+          "thumbnail": null
+        },
+        {
+          "position": 1,
+          "name": "Taehyung",
+          "source": "7808451668041529819",
+          "thumbnail": null
+        },
+        {
+          "position": 2,
+          "name": "Jimin",
+          "source": "7208461102545019485",
+          "thumbnail": null
+        },
+        {
+          "position": 3,
+          "name": "Jin",
+          "source": "8960684231317599623",
+          "thumbnail": null
+        },
+        {
+          "position": 4,
+          "name": "RM",
+          "source": "3411905131733113703",
+          "thumbnail": null
+        },
+        {
+          "position": 5,
+          "name": "Suga",
+          "source": "5770594923424856916",
+          "thumbnail": null
+        },
+        {
+          "position": 6,
+          "name": "Jhope",
+          "source": "8911824865672033580",
+          "thumbnail": null
+        },
+        {
+          "position": 7,
+          "name": "Jungkook",
+          "source": "3861790331771585053",
+          "thumbnail": null
+        }
+      ],
+      "similar_apps": [
+
+      ]
+    },
+    "ads": {
+      "admob": {
+        "app_id": "ca-app-pub-1434451780549044~7207143850",
+        "banner_id": "ca-app-pub-1434451780549044/8428112172",
+        "interstitial_id": "ca-app-pub-1434451780549044/5837607850",
+        "native_id": "ca-app-pub-1434451780549044/4253101431",
+        "app_open_id": ""
       },
-      "ads": {
-         "admob": {
-            "app_id": "ca-app-pub-1434451780549044~7207143850",
-            "banner_id": "ca-app-pub-1434451780549044/8428112172",
-            "interstitial_id": "ca-app-pub-1434451780549044/5837607850",
-            "native_id": "ca-app-pub-1434451780549044/4253101431"
-         },
-         "startapp": {
-            "app_id": "200876485"
-         },
-         "unity": {
-            "app_id": "4569667"
-         },
-         "config": {
-            "interstitial_interval": 5,
-           "keywords": [],
-       "channels": [
-               "admob",
-               "unity",
-               "startapp"
-            ],
-            "main_channel": "unity",
-            "enabled_ad": true
-         }
+      "startapp": {
+        "app_id": "200876485"
+      },
+      "unity": {
+        "app_id": "4569667"
+      },
+      "config": {
+        "interstitial_interval": 5,
+        "keywords": [
+
+        ],
+        "channels": [
+          "admob",
+          "unity",
+          "startapp"
+        ],
+        "main_channel": "unity",
+        "enabled_ad": true
       }
-   }
+    }
+  }
 }
