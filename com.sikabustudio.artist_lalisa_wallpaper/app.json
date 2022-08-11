@@ -14,7 +14,7 @@
     },
     "configuration.json": {
       "app": {
-        "name_version": "1.0.13",
+        "name_version": "1.1.0",
         "build_version": 23,
         "source": "blogger",
         "force_update": false,
@@ -23,7 +23,7 @@
           {
             "position": 0,
             "name":"Lalisa",
-            "source":"5226085025606699733",
+            "source":"8965951390562031547",
             "thumbnail":null
           }
         ],
@@ -38,10 +38,10 @@
           "app_open_id": ""
         },
         "startapp": {
-          "app_id": "211331415"
+          "app_id": "207718184"
         },
         "unity": {
-          "app_id": "4507235"
+          "app_id": "4880883"
         },
         "config": {
           "interstitial_interval": 5,
