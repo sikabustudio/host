@@ -14,8 +14,8 @@
     },
     "configuration.json": {
       "app": {
-        "name_version": "1.1.1",
-        "build_version": 24,
+        "name_version": "1.2.0",
+        "build_version": 29,
         "source": "blogger",
         "force_update": false,
         "show_similar_app": false,
