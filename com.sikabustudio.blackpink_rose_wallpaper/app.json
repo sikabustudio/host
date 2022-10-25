@@ -14,45 +14,20 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.2.2",
-      "build_version": 32,
+      "name_version": "1.3.0",
+      "build_version": 35,
       "source": "blogger",
-      "force_update": false,
+      "force_update": true,
       "show_similar_app": false,
       "data_source": [
         {
           "position": 0,
-          "name": "Rose",
+          "name": "blackpink",
           "source": "774590048632038877",
           "thumbnail": null
         }
       ],
-      "similar_apps": [
-        {
-          "title": "Blackpink Member Wallpaper K-POP HD",
-          "package_name": "com.sikabustudio.blackpink_member_wallpaper",
-          "type": "wallpaper",
-          "short_description": "Get collections of BTS member and set it as your wallpaper."
-        },
-        {
-          "title": "Jennie Wallpaper K-POP HD",
-          "package_name": "com.sikabustudio.blackpink_jennie_wallpaper",
-          "type": "wallpaper",
-          "short_description": "Get collections of Jennie Blackpink member and set it as your wallpaper."
-        },
-        {
-          "title": "Jisoo Wallpaper K-POP HD",
-          "package_name": "com.sikabustudio.blackpink_jisoo_wallpaper",
-          "type": "wallpaper",
-          "short_description": "Get collections of Jisoo Blackpink member and set it as your wallpaper."
-        },
-        {
-          "title": "Lisa Wallpaper K-POP HD",
-          "package_name": "com.sikabustudio.blackpink_lisa_wallpaper",
-          "type": "wallpaper",
-          "short_description": "Get collections of Lisa Blackpink member and set it as your wallpaper."
-        }
-      ]
+      "similar_apps": []
     },
     "ads": {
       "admob": {
@@ -60,7 +35,17 @@
         "banner_id": "ca-app-pub-7743179307949055/4265952335",
         "interstitial_id": "ca-app-pub-7743179307949055/2378155591",
         "native_id": "ca-app-pub-7743179307949055/8560420568",
-        "app_open_id": ""
+        "app_open_id": "ca-app-pub-7743179307949055/2680882238",
+        "reward_id": "---NO-ADS---"
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "eec5ff8c2dca2b1f",
+        "interstitial_id": "bc01f9a9ca1748e8",
+        "reward_id": "---NO-ADS---",
+        "native_id": "d6f92b371c2d26a4",
+        "open_app_id": "8d2faeaa9a01b8db"
       },
       "startapp": {
         "app_id": "211243746"
@@ -71,9 +56,14 @@
       "config": {
         "interstitial_interval": 5,
         "keywords": [
-
+          "finance",
+          "insurance",
+          "jago",
+          "bts",
+          "jenius"
         ],
         "channels": [
+          "applovin",
           "admob",
           "unity",
           "startapp"
