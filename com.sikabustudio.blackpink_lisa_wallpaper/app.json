@@ -14,8 +14,8 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.2.2",
-      "build_version": 32,
+      "name_version": "1.3.1",
+      "build_version": 40,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
@@ -27,26 +27,7 @@
           "thumbnail": null
         }
       ],
-      "similar_apps": [
-        {
-          "title": "Blackpink Member Wallpaper K-POP HD",
-          "package_name": "com.sikabustudio.blackpink_member_wallpaper",
-          "type": "wallpaper",
-          "short_description": "Get collections of BTS member and set it as your wallpaper."
-        },
-        {
-          "title": "Jennie Wallpaper K-POP HD",
-          "package_name": "com.sikabustudio.blackpink_jennie_wallpaper",
-          "type": "wallpaper",
-          "short_description": "Get collections of Jennie Blackpink member and set it as your wallpaper."
-        },
-        {
-          "title": "Rose Wallpaper K-POP HD",
-          "package_name": "com.sikabustudio.blackpink_rose_wallpaper",
-          "type": "wallpaper",
-          "short_description": "Get collections of Rose Blackpink member and set it as your wallpaper."
-        }
-      ]
+      "similar_apps": []
     },
     "ads": {
       "admob": {
@@ -54,7 +35,17 @@
         "banner_id": "ca-app-pub-7743179307949055/3919641439",
         "interstitial_id": "ca-app-pub-7743179307949055/4053441179",
         "native_id": "ca-app-pub-7743179307949055/3806029160",
-        "app_open_id": ""
+        "app_open_id": "ca-app-pub-7743179307949055/8124780602",
+        "reward_id": "---NO-ADS---"
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "f5c7f3f51789ceb7",
+        "interstitial_id": "1fb7c0cd93f0eba0",
+        "reward_id": "---NO-ADS---",
+        "native_id": "d30a68e3272d0c22",
+        "open_app_id": "86b2eab1992aec41"
       },
       "startapp": {
         "app_id": "211331415"
@@ -65,9 +56,14 @@
       "config": {
         "interstitial_interval": 5,
         "keywords": [
-
+          "finance",
+          "insurance",
+          "jago",
+          "bts",
+          "jenius"
         ],
         "channels": [
+          "applovin",
           "admob",
           "unity",
           "startapp"

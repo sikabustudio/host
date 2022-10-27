@@ -14,8 +14,8 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.2.2",
-      "build_version": 32,
+      "name_version": "1.3.1",
+      "build_version": 40,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
@@ -78,7 +78,17 @@
         "banner_id": "ca-app-pub-7743179307949055/4056685885",
         "interstitial_id": "ca-app-pub-7743179307949055/3481970812",
         "native_id": "ca-app-pub-7743179307949055/4170298152",
-        "app_open_id": ""
+        "app_open_id": "ca-app-pub-7743179307949055/9028259545",
+        "reward_id": "---NO-ADS---"
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "5df8f9f5fcb0925c",
+        "interstitial_id": "56f574099965a276",
+        "reward_id": "---NO-ADS---",
+        "native_id": "5195d5f32916c097",
+        "open_app_id": "b3064cb85664ee29"
       },
       "startapp": {
         "app_id": "206098712"
@@ -89,9 +99,14 @@
       "config": {
         "interstitial_interval": 5,
         "keywords": [
-
+          "finance",
+          "insurance",
+          "jago",
+          "bts",
+          "jenius"
         ],
         "channels": [
+          "applovin",
           "admob",
           "unity",
           "startapp"
