@@ -14,8 +14,8 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.2.2",
-      "build_version": 32,
+      "name_version": "1.3.4",
+      "build_version": 43,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
@@ -78,7 +78,8 @@
         "banner_id": "ca-app-pub-1434451780549044/4844090381",
         "interstitial_id": "ca-app-pub-1434451780549044/1998435195",
         "native_id": "ca-app-pub-1434451780549044/2858777648",
-        "app_open_id": ""
+        "reward_id": "---NO-ADS---",
+        "open_app_id": ""
       },
       "startapp": {
         "app_id": "207589790"
@@ -92,12 +93,22 @@
 
         ],
         "channels": [
+          "applovin",
           "admob",
           "unity",
           "startapp"
         ],
-        "main_channel": "unity",
+        "main_channel": "applovin",
         "enabled_ad": true
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "---PLACEMENT---",
+        "interstitial_id": "---PLACEMENT---",
+        "reward_id": "---PLACEMENT---",
+        "native_id": "---PLACEMENT---",
+        "open_app_id": "---PLACEMENT---"
       }
     }
   }
