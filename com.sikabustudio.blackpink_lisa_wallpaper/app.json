@@ -70,7 +70,7 @@
           "unity",
           "startapp"
         ],
-        "main_channel": "admob",
+        "main_channel": "applovin",
         "enabled_ad": true
       }
     }
