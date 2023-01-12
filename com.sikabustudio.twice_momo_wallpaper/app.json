@@ -14,8 +14,8 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.3.5",
-      "build_version": 44,
+      "name_version": "1.3.6",
+      "build_version": 45,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
@@ -63,11 +63,11 @@
       "applovin": {
         "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
         "mediation_provider": "max",
-        "banner_id": "---PLACEMENT---",
-        "interstitial_id": "---PLACEMENT---",
-        "reward_id": "---PLACEMENT---",
-        "native_id": "---PLACEMENT---",
-        "open_app_id": "---PLACEMENT---"
+        "banner_id": "7097eefb356b0a98",
+        "interstitial_id": "9a554d4d7fbe73b2",
+        "reward_id": "PLACEHOLDER",
+        "native_id": "dc8c99f488578dbc",
+        "open_app_id": "f3ad47bd17cabdb2"
       }
     }
   }

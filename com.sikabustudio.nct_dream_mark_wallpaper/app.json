@@ -14,8 +14,8 @@
 	},
 	"configuration.json": {
 		"app": {
-			"name_version": "1.3.5",
-			"build_version": 44,
+			"name_version": "1.3.6",
+			"build_version": 45,
 			"source": "blogger",
 			"data_source": [{
 				"position": 0,
@@ -37,11 +37,11 @@
 			"applovin": {
 				"key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
 				"mediation_provider": "max",
-				"banner_id": "---EMPTY---",
-				"interstitial_id": "---EMPTY---",
-				"native_id": "---EMPTY---",
+				"banner_id": "90930e06ed91273d",
+				"interstitial_id": "2cec1d7c61025fea",
+				"native_id": "756b755dceedaf5d",
 				"reward_id": "---EMPTY---",
-				"open_app_id": "---EMPTY---"
+				"open_app_id": "e8000493da8b58c7"
 			},
 			"startapp": {
 				"app_id": "211145429"
@@ -53,6 +53,7 @@
 				"interstitial_interval": 5,
 				"enabled_ad": true,
 				"main_channel": "applovin",
+				"keywords": [],
 				"channels": [
 					"applovin",
 					"unity",

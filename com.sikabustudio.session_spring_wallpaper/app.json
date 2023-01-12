@@ -14,8 +14,8 @@
   },
   "configuration.json": {
     "app": {
-      "name_version": "1.3.5",
-      "build_version": 44,
+      "name_version": "1.3.6",
+      "build_version": 45,
       "source": "blogger",
       "force_update": false,
       "show_similar_app": false,
@@ -62,7 +62,7 @@
         "mediation_provider": "max",
         "banner_id": "9cfd13408136e5ec",
         "interstitial_id": "cad2cdc9e89b009a",
-        "reward_id": "---PLACEMENT---",
+        "reward_id": "PLACEHOLDER",
         "native_id": "c81e7484125acca1",
         "open_app_id": "c2968ca9abaf9ef3"
       }
