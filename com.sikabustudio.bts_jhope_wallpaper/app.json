@@ -94,7 +94,6 @@
         ],
         "channels": [
           "applovin",
-          "admob",
           "unity",
           "startapp"
         ],
@@ -104,11 +103,11 @@
       "applovin": {
         "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
         "mediation_provider": "max",
-        "banner_id": "PLACEHOLDER",
-        "interstitial_id": "PLACEHOLDER",
+        "banner_id": "ecf482efe6be7527",
+        "interstitial_id": "fe8c150c4ed8d3c4",
         "reward_id": "PLACEHOLDER",
-        "native_id": "PLACEHOLDER",
-        "open_app_id": "PLACEHOLDER"
+        "native_id": "2ae4a8e2f90db25b",
+        "open_app_id": "0da3335f61923caf"
       }
     }
   }

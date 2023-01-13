@@ -102,6 +102,7 @@
 
         ],
         "channels": [
+          "applovin",
           "admob",
           "unity",
           "startapp"
