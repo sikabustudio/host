@@ -20,7 +20,8 @@
 			"data_source": [{
 				"position": 0,
 				"name": "nct dream",
-				"source": "5695061620202862211"
+				"source": "5695061620202862211",
+				"thumbnail": null
 			}],
 			"force_update": false,
 			"show_similar_app": false
