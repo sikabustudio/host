@@ -24,7 +24,8 @@
 				"thumbnail": null
 			}],
 			"force_update": false,
-			"show_similar_app": false
+			"show_similar_app": false,
+			"similar_apps":[]
 		},
 		"ads": {
 			"admob": {
