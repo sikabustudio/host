@@ -1,0 +1,73 @@
+{
+  "project-wallpaper.properties": {
+    "blogger": true,
+    "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
+    "blogger_id_config": "2631553520729747033",
+    "blogger_post_id_config": "374734733239028104",
+    "blogger_id_data": "2539729332232068203"
+  },
+  "default.xml": {
+    "app_name": "Wallpaper Song Joong Ki",
+    "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/privacy_and_policy.html",
+    "share_app": "Hi are you K-Drama Lover? Try Song Joong Ki wallpaper. https://play.google.com/store/apps/details?id=%s",
+    "store_id": "Sikabu+Studio"
+  },
+  "configuration.json": {
+    "app": {
+      "name_version": "1.3.6",
+      "build_version": 45,
+      "source": "blogger",
+      "force_update": false,
+      "show_similar_app": false,
+      "data_source": [
+        {
+          "position": 0,
+          "name": "artist",
+          "source": "6835282957509702946",
+          "thumbnail": null
+        }
+      ],
+      "similar_apps": [
+
+      ]
+    },
+    "ads": {
+      "admob": {
+        "app_id": "ca-app-pub-1434451780549044~9933888663",
+        "banner_id": "PLACEHOLDER",
+        "interstitial_id": "PLACEHOLDER",
+        "native_id": "PLACEHOLDER",
+        "reward_id": "---NO-ADS---",
+        "open_app_id": "PLACEHOLDER"
+      },
+      "startapp": {
+        "app_id": "200589676"
+      },
+      "unity": {
+        "app_id": "5120870"
+      },
+      "config": {
+        "interstitial_interval": 5,
+        "keywords": [
+
+        ],
+        "channels": [
+          "applovin",
+          "unity",
+          "startapp"
+        ],
+        "main_channel": "applovin",
+        "enabled_ad": true
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "3fce5d8b46e7d825",
+        "interstitial_id": "432e0c4b603c3b97",
+        "reward_id": "PLACEHOLDER",
+        "native_id": "a5af83d78a9f0949",
+        "open_app_id": "ce2bb30c877e7740"
+      }
+    }
+  }
+}
