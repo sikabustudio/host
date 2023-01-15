@@ -74,12 +74,12 @@
     },
     "ads": {
       "admob": {
-        "app_id": "ca-app-pub-1434451780549044~5850353908",
-        "banner_id": "ca-app-pub-1434451780549044/5428054481",
-        "interstitial_id": "ca-app-pub-1434451780549044/2801891149",
-        "native_id": "ca-app-pub-1434451780549044/9175727806",
+        "app_id": "ca-app-pub-7743179307949055~8475926248",
+        "banner_id": "ca-app-pub-7743179307949055/5738916410",
+        "interstitial_id": "ca-app-pub-7743179307949055/1681349383",
+        "native_id": "ca-app-pub-7743179307949055/4042691361",
         "reward_id": "---NO-ADS---",
-        "open_app_id": ""
+        "open_app_id": "ca-app-pub-7743179307949055/2322415585"
       },
       "applovin": {
         "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
