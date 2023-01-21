@@ -38,7 +38,7 @@
         "interstitial_id": "ca-app-pub-1434451780549044/9779409211",
         "native_id": "ca-app-pub-1434451780549044/5356098412",
         "reward_id": "---NO-ADS---",
-        "open_app_id": ""
+        "open_app_id": "---NO-ADS---"
       },
       "startapp": {
         "app_id": "204147828"
@@ -50,12 +50,12 @@
         "interstitial_interval": 5,
         "channels": [
           "applovin",
-          "admob",
           "unity",
           "startapp"
         ],
         "main_channel": "applovin",
-        "enabled_ad": true
+        "enabled_ad": true,
+        "keywords": []
       },
       "applovin": {
         "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
