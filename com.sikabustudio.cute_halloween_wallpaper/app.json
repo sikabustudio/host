@@ -1,0 +1,75 @@
+{
+  "project-wallpaper.properties": {
+    "blogger": true,
+    "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
+    "blogger_id_config": "2631553520729747033",
+    "blogger_post_id_config": "6276577719084589255",
+    "blogger_id_data": "2539729332232068203"
+  },
+  "default.xml": {
+    "app_name": "Cute Halloween Wallpaper",
+    "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/bts/v/privacy_and_policy.html",
+    "share_app": "Get Cute Halloween Collections Here. https://play.google.com/store/apps/details?id=%s",
+    "store_id": "Sikabu+Studio"
+  },
+  "configuration.json": {
+    "app": {
+      "name_version": "1.3.6",
+      "build_version": 45,
+      "source": "blogger",
+      "force_update": false,
+      "show_similar_app": false,
+      "data_source": [
+        {
+          "position": 0,
+          "name": "Cute Halloween",
+          "source": "6107204226990672420",
+          "thumbnail": null
+        }
+      ],
+      "similar_apps": []
+    },
+    "ads": {
+      "admob": {
+        "app_id": "ca-app-pub-7743179307949111~1156573263",
+        "banner_id": "ca-app-pub-7743179307949111/4056685885",
+        "interstitial_id": "ca-app-pub-7743179307949111/3481970812",
+        "native_id": "ca-app-pub-7743179307949111/4170298152",
+        "reward_id": "---NO-ADS---",
+        "open_app_id": "ca-app-pub-7743179307949111/9028259545"
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "f935abce1f5215f5",
+        "interstitial_id": "d03edc59fa8553b1",
+        "reward_id": "---NO-ADS---",
+        "native_id": "1fb2867b63bf7229",
+        "open_app_id": "2e57f6e6d9835030"
+      },
+      "startapp": {
+        "app_id": "208919109"
+      },
+      "unity": {
+        "app_id": "4297515"
+      },
+      "config": {
+        "interstitial_interval": 5,
+        "keywords": [
+          "finance",
+          "insurance",
+          "jago",
+          "bts",
+          "jenius"
+        ],
+        "channels": [
+          "applovin",
+          "unity",
+          "startapp"
+        ],
+        "main_channel": "applovin",
+        "enabled_ad": true
+      }
+    }
+  }
+}
