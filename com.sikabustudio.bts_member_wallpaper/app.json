@@ -75,12 +75,12 @@
     },
     "ads": {
       "admob": {
-        "app_id": "ca-app-pub-1434451780549044~7207143850",
-        "banner_id": "ca-app-pub-1434451780549044/8428112172",
-        "interstitial_id": "ca-app-pub-1434451780549044/5837607850",
-        "native_id": "ca-app-pub-1434451780549044/4253101431",
+        "app_id": "ca-app-pub-7743179307949055~8551843630",
+        "banner_id": "ca-app-pub-7743179307949055/7003792398",
+        "interstitial_id": "ca-app-pub-7743179307949055/5802391363",
+        "native_id": "ca-app-pub-7743179307949055/8484395027",
         "reward_id": "---NO-ADS---",
-        "open_app_id": ""
+        "open_app_id": "ca-app-pub-7743179307949055/4489309693"
       },
       "startapp": {
         "app_id": "200876485"
@@ -99,7 +99,7 @@
           "unity",
           "startapp"
         ],
-        "main_channel": "applovin",
+        "main_channel": "admob",
         "enabled_ad": true
       },
       "applovin": {
