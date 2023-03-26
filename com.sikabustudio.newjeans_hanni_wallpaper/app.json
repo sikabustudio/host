@@ -1,0 +1,77 @@
+{
+  "project-wallpaper.properties": {
+    "blogger": true,
+    "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
+    "blogger_id_config": "2631553520729747033",
+    "blogger_id_data": "2539729332232068203",
+    "blogger_post_id_config": "2015486189587625535"
+  },
+  "default.xml": {
+    "app_name": "Hanni Wallpaper",
+    "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/privacy_and_policy.html",
+    "share_app": "Hi Bunnies and Hanni Lover, change your screen with Hanni wallpaper. https://play.google.com/store/apps/details?id=%s",
+    "store_id": "Sikabu+Studio"
+  },
+  "configuration.json": {
+    "app": {
+      "name_version": "1.3.8",
+      "build_version": 47,
+      "source": "blogger",
+      "force_update": false,
+      "show_similar_app": false,
+      "data_source": [
+        {
+          "position": 0,
+          "name": "newjeans",
+          "source": "6994401570905534196",
+          "thumbnail": null
+        }
+      ],
+      "similar_apps": [
+
+      ]
+    },
+    "ads": {
+      "admob": {
+        "app_id": "ca-app-pub-7743179307949055~8205197347",
+        "banner_id": "ca-app-pub-7743179307949055/4265952335",
+        "interstitial_id": "ca-app-pub-7743179307949055/2378155591",
+        "native_id": "ca-app-pub-7743179307949055/8560420568",
+        "open_app_id": "ca-app-pub-7743179307949055/2680882238",
+        "reward_id": "---NO-ADS---"
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "a5ada41cc2980122",
+        "interstitial_id": "edeaea3db5b48d9d",
+        "reward_id": "---NO-ADS---",
+        "native_id": "7103d64a113346bd",
+        "open_app_id": "1b22783ee6864f6f"
+      },
+      "startapp": {
+        "app_id": "202808083"
+      },
+      "unity": {
+        "app_id": "5220135"
+      },
+      "config": {
+        "interstitial_interval": 5,
+        "keywords": [
+          "finance",
+          "insurance",
+          "jago",
+          "bts",
+          "jenius"
+        ],
+        "channels": [
+          "applovin",
+          "unity",
+          "startapp"
+        ],
+        "main_channel": "applovin",
+        "enabled_ad": true
+      }
+    }
+  }
+}
