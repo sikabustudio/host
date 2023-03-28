@@ -1,0 +1,73 @@
+{
+  "project-wallpaper.properties": {
+    "blogger": true,
+    "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
+    "blogger_id_config": "2631553520729747033",
+    "blogger_post_id_config": "8786868392130520586",
+    "blogger_id_data": "2539729332232068203"
+  },
+  "default.xml": {
+    "app_name": "Kenny SP Wallpaper",
+    "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/privacy_and_policy.html",
+    "share_app": "Hi friend, Are you fans of Kenny South park?. https://play.google.com/store/apps/details?id=%s",
+    "store_id": "Sikabu+Studio"
+  },
+  "configuration.json": {
+    "app": {
+      "name_version": "1.3.9",
+      "build_version": 48,
+      "source": "blogger",
+      "force_update": false,
+      "show_similar_app": false,
+      "data_source": [
+        {
+          "position": 0,
+          "name": "Kenny",
+          "source": "1203346802578343484",
+          "thumbnail": null
+        }
+      ],
+      "similar_apps": [
+
+      ]
+    },
+    "ads": {
+      "admob": {
+        "app_id": "ca-app-pub-1434451780549044~3612467405",
+        "banner_id": "ca-app-pub-1434451780549044/6978464980",
+        "interstitial_id": "ca-app-pub-1434451780549044/9779409211",
+        "native_id": "ca-app-pub-1434451780549044/5356098412",
+        "reward_id": "---NO-ADS---",
+        "open_app_id": ""
+      },
+      "startapp": {
+        "app_id": "202364655"
+      },
+      "unity": {
+        "app_id": "5221780"
+      },
+      "config": {
+        "interstitial_interval": 5,
+        "keywords": [
+
+        ],
+        "channels": [
+          "applovin",
+          "unity",
+          "startapp"
+        ],
+        "main_channel": "applovin",
+        "enabled_ad": true
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "2b52b708bbffb23c",
+        "interstitial_id": "b6e1b9dd7f45dcee",
+        "reward_id": "PLACEHOLDER",
+        "native_id": "061c683bd390f03d",
+        "open_app_id": "812dcf7f60a9aa1e"
+      }
+    }
+  }
+}
