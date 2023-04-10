@@ -1,67 +1,78 @@
 {
-	"project-wallpaper.properties": {
-		"blogger": true,
-		"blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
-		"blogger_id_config": "2631553520729747033",
-		"blogger_id_data": "2539729332232068203",
-		"blogger_post_id_config": "4977002957240661556"
-	},
-	"default.xml": {
-		"app_name": "Jaemin NCT Dream Wallpapers",
-		"privacy_policy_url": "https://sikabustudio.github.io/wallpaper/privacy_and_policy.html",
-		"share_app": "Hi NCTzen and NCT Dream Lover, change your screen with Na Jae-min NCT Dream Wallpaper Full HD. https://play.google.com/store/apps/details?id=%s",
-		"store_id": "Sikabu+Studio"
-	},
-	"configuration.json": {
-		"app": {
-			"name_version": "1.3.9",
-			"build_version": 48,
-			"source": "blogger",
-			"data_source": [{
-				"position": 0,
-				"name": "nct dream",
-				"source": "6889806044762818789",
-				"thumbnail": null
-			}],
-			"force_update": false,
-			"show_similar_app": false,
-			"similar_apps":[]
-		},
-		"ads": {
-			"admob": {
-				"app_id": "ca-app-pub-7743179307949051~7689240950",
-				"banner_id": "ca-app-pub-7743179307949051/9433282052",
-				"interstitial_id": "ca-app-pub-7743179307949051/1727301982",
-				"native_id": "ca-app-pub-7743179307949051/8120200388",
-				"reward_id": "---EMPTY---",
-				"open_app_id": "ca-app-pub-7743179307949051/8101138642"
-			},
-			"applovin": {
-				"key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
-				"mediation_provider": "max",
-				"banner_id": "2e82b4713122358b",
-				"interstitial_id": "db4e5a1c59d9e214",
-				"native_id": "024a8a7b613a32e9",
-				"reward_id": "---EMPTY---",
-				"open_app_id": "5d88b23d4bfd68a3"
-			},
-			"startapp": {
-				"app_id": "203934990"
-			},
-			"unity": {
-				"app_id": "5230181"
-			},
-			"config": {
-				"interstitial_interval": 5,
-				"enabled_ad": true,
-				"main_channel": "applovin",
-				"keywords": [],
-				"channels": [
-					"applovin",
-					"unity",
-					"startapp"
-				]
-			}
-		}
-	}
+  "project-wallpaper.properties": {
+    "blogger": true,
+    "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
+    "blogger_id_config": "2631553520729747033",
+    "blogger_id_data": "2539729332232068203",
+    "blogger_post_id_config": "4977002957240661556",
+    "config_url": "http://sikabu-studio.blogspot.com/2023/04/comsikabustudionctdreamjaeminwallpaper.html"
+  },
+  "default.xml": {
+    "app_name": "Jaemin NCT Dream Wallpapers",
+    "privacy_policy_url": "https://sikabustudio.github.io/wallpaper/privacy_and_policy.html",
+    "share_app": "Hi NCTzen and NCT Dream Lover, change your screen with Na Jae-min NCT Dream Wallpaper Full HD. https://play.google.com/store/apps/details?id=%s",
+    "store_id": "Sikabu+Studio"
+  },
+  "configuration.json": {
+    "app": {
+      "name_version": "1.3.9",
+      "build_version": 48,
+      "source": "blogger",
+      "data_source": [
+        {
+          "position": 0,
+          "name": "nct dream",
+          "source": "6889806044762818789",
+          "thumbnail": null
+        }
+      ],
+      "force_update": false,
+      "show_similar_app": false,
+      "similar_apps": [
+
+      ],
+      "images_url": "http://sikabustudio-pinterest.blogspot.com/2023/04/comsikabustudionctdreamjaeminwallpaper.html",
+      "categories_url": "https://sikabu-additional.blogspot.com/2022/07/category-wallpaper.html",
+      "more_app_url": "https://sikabu-additional.blogspot.com/2022/07/more-app.html",
+      "tag": "nct dream"
+    },
+    "ads": {
+      "admob": {
+        "app_id": "ca-app-pub-7743179307949051~7689240950",
+        "banner_id": "ca-app-pub-7743179307949051/9433282052",
+        "interstitial_id": "ca-app-pub-7743179307949051/1727301982",
+        "native_id": "ca-app-pub-7743179307949051/8120200388",
+        "reward_id": "---EMPTY---",
+        "open_app_id": "ca-app-pub-7743179307949051/8101138642"
+      },
+      "applovin": {
+        "key": "nT3nuPnDO4Nw11mhKz1D2WvF7D5H1-cNVfGo9iPk0UbpJ1Tb7cVeoLcHhDsxpkrKD8MXmEW2O3frA1r9Sh635U",
+        "mediation_provider": "max",
+        "banner_id": "2e82b4713122358b",
+        "interstitial_id": "db4e5a1c59d9e214",
+        "native_id": "024a8a7b613a32e9",
+        "reward_id": "---EMPTY---",
+        "open_app_id": "5d88b23d4bfd68a3"
+      },
+      "startapp": {
+        "app_id": "203934990"
+      },
+      "unity": {
+        "app_id": "5230181"
+      },
+      "config": {
+        "interstitial_interval": 5,
+        "enabled_ad": true,
+        "main_channel": "applovin",
+        "keywords": [
+
+        ],
+        "channels": [
+          "applovin",
+          "unity",
+          "startapp"
+        ]
+      }
+    }
+  }
 }

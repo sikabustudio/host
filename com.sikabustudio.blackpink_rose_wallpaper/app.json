@@ -4,7 +4,8 @@
     "blogger_key": "434b7c63557b4669354b6333737a364537454475387a5b546e4c51495534473b37544461794636",
     "blogger_id_config": "2631553520729747033",
     "blogger_id_data": "2539729332232068203",
-    "blogger_post_id_config": "8765541418875386342"
+    "blogger_post_id_config": "8765541418875386342",
+    "config_url": "http://sikabu-studio.blogspot.com/2022/01/config-wallpaper-blackpink-rose.html"
   },
   "default.xml": {
     "app_name": "Rose Wallpaper",
@@ -29,7 +30,11 @@
       ],
       "similar_apps": [
 
-      ]
+      ],
+      "images_url": "http://sikabustudio-pinterest.blogspot.com/2022/01/wallpaper-blackpink-rose.html",
+      "categories_url": "https://sikabu-additional.blogspot.com/2022/07/category-wallpaper.html",
+      "more_app_url": "https://sikabu-additional.blogspot.com/2022/07/more-app.html",
+      "tag": "blackpink"
     },
     "ads": {
       "admob": {
