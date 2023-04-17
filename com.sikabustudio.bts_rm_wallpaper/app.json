@@ -108,10 +108,11 @@
         ],
         "channels": [
           "applovin",
+          "admob",
           "unity",
           "startapp"
         ],
-        "main_channel": "applovin",
+        "main_channel": "admob",
         "enabled_ad": true
       }
     }
